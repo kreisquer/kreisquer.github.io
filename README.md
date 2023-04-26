@@ -1,2 +1,2 @@
 # kreisquer.github.io
-Githup Pages Repository - Verifikation von Mastodon
+Githup Pages Repository - Verification of Mastodon
